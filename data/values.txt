@@ -1,0 +1,159 @@
+(2
+(3
+(4
+(5
+(6
+*
+, fadeout
+->
+->, fadeout
+10_1
+10_11
+10_7
+10_9
+10_dim
+10_maj
+10_maj . . 8_maj
+10_min
+10_sus4
+111
+111(b3,,11,9) 5_7
+117
+117 5_min
+119
+11dim7
+11hdim7
+11maj
+11min
+12:1
+12:5
+12:5 1_maj 4_maj 12:5
+12:5 9_maj
+12:7
+12:9(13,#11)
+12:dim 11maj
+12:maj
+12:min
+12:sus2
+12:sus4
+12:sus4(,9) 1_sus4(,9)
+12:sus4(,9,13)
+12:sus4(9) 12:maj
+1_1
+1_1 . 6_maj
+1_1 3_hdim7
+1_1(#5) 1_maj
+1_7
+1_7 8_7
+1_7(#9)
+1_9
+1_maj
+1_maj . . .
+1_maj 12:5
+1_maj 12:maj
+1_maj 1_min
+1_maj 1_sus4
+1_maj 3_min
+1_maj 4_maj
+1_maj 8_maj 10_maj .
+1_min
+1_sus2
+1_sus4
+1_sus4 . 1_maj
+1_sus4 1_maj
+1_sus4(,9)
+2_7 1_min
+2_9
+2_aug
+2_dim
+2_maj
+2_min
+3_1(b3,)
+3_1(b3,,11,9)
+3_7
+3_7 8_7
+3_9
+3_dim 6_dim
+3_dim7 6_dim7
+3_hdim7
+3_maj
+3_min
+3_sus4
+3_sus4 3_maj
+3_sus4 8_maj
+4_1
+4_7
+4_maj
+4_maj 12:5
+4_maj 6_maj
+4_min
+4_sus2 4_sus4
+4_sus4
+5_7
+5_maj
+5_min
+5_sus4
+5_sus4(,9) 5_7
+6_1
+6_11
+6_7
+6_7 3_7
+6_7 6_maj
+6_9
+6_maj
+6_maj 4_maj
+6_maj 8_maj
+6_maj 8_maj 1_maj .
+6_maj 8_min
+6_maj 9_maj
+6_min
+6_sus4
+6_sus4 6_maj
+6_sus4(,9)
+6_sus4(,9,13)
+7_7
+7_hdim7
+7_maj
+7_min
+7_sus4(,9) 7_maj
+8_1
+8_1(11)
+8_1(11) 1_maj
+8_11
+8_7
+8_7 . . .
+8_7 . 1_maj
+8_7 . 6_maj
+8_7 1_9
+8_7 8_7
+8_7(#9)
+8_7(b9)
+8_7(b9) 8_7
+8_aug
+8_maj
+8_maj 6_1
+8_min
+8_sus4
+8_sus4 . 8_maj
+8_sus4 8_7
+8_sus4 8_maj
+8_sus4(,9)
+8_sus4(,9) . 8_maj
+8_sus4(,9) 1_maj
+8_sus4(,9) 8_maj
+8_sus4(,9,13)
+9_1
+9_1(3)
+9_7
+9_9
+9_maj
+9_maj 8_maj
+9_sus4
+9_sus4(,9) 12:sus4(,9)
+x10
+x2
+x3
+x4
+x7
+x8
+x9
